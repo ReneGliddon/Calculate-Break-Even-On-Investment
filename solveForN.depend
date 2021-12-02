@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1636699978 source:c:\users\samsung\desktop\code\solveforn\main.cpp
+	<iostream>
+	<cmath>
+	<math.h>
+
